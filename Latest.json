@@ -2,7 +2,7 @@
   "versionCode": 17,
   "versionName": "2.2.3",
   "releaseTag": "v2.2.3",
-  "downloadUrl": "https://github.com/SYSGD-Ecosystem/gestor-contable-tcp-releases/releases/download/v2.2.3/app-release.apk",
+  "downloadUrl": "https://github.com/lazaroysr96/gestor-contable-tcp-releases/raw/refs/heads/main/releases/download/v2.2.3/app-release.apk",
   "changelog": "Mejoras en el módulo de TCP Ventas",
   "releaseDate": "2026-04-08",
   "minAndroidVersion": 21,
